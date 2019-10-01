@@ -1,5 +1,5 @@
 # dotnetbay - A .NET Auction Bootstrapper 
-Aa bootstrap solution to build your own basic auction portal.
+A bootstrap solution to build your own basic auction portal.
 
 ## Goals
 This is the starting point for various extensions to the core business library. The current storage implementation is done by serializing data to json-files. There is no graphical user interface, just a command line.
